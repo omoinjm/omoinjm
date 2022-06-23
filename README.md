@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omoinjm](https://github.com/omoinjm)
+- 👨‍💻 All of my projects are available at [https://github.com/omoinjm](https://github.com/omoinjm?tab=repositories)
 
 - 💬 Ask me about **html, css and javascript**
 
