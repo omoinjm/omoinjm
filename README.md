@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/njmalaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="njmalaza" height="30" width="40" /></a>
 <a href="https://codesandbox.com/omoinjm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="omoinjm" height="30" width="40" /></a>
 <a href="https://instagram.com/nhlanhlamalaza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nhlanhlamalaza_" height="30" width="40" /></a>
- <a href="https://njmportfolio.netlify.app" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' al303t='website' height="30" width="40" /></a>
+ <a href="https://njmportfolio.netlify.app" target="blank"><img align="center" src='https://njmportfolio.netlify.app/favicon.ico' al303t='website' height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
