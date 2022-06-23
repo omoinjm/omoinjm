@@ -9,11 +9,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/omoinjm)
 
-- 🔭 I’m currently working on [an E-commerce store](https://github.com/omoinjm/selassie-store)
+- 🔭 I’m currently working on an [E-commerce store](https://github.com/omoinjm/selassie-store)
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omoinjm](https://github.com/omoinjm?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/omoinjm?tab=repositories)
 
 - 💬 Ask me about **html, css and javascript**
 
