@@ -5,8 +5,9 @@
 
 <p align="left"> 
 <a href="https://twitter.com/nhlanhlamalaza_" target="blank"><img src="https://img.shields.io/twitter/follow/nhlanhlamalaza_?logo=twitter&style=for-the-badge" alt="nhlanhlamalaza_" /></a> <br />
-![Profile views](https://gpvc.arturio.dev/omoinjm)
 </p>
+
+![Profile views](https://gpvc.arturio.dev/omoinjm)
 
 - 🔭 I’m currently working on [an E-commerce store](https://github.com/omoinjm/selassie-store)
 
