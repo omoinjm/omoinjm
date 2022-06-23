@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nhlanhla Malaza</h1>
 <h3 align="center">A passionate software developer, willing to learn and adapt to any software environment.</h3>
 
+![I'm a passionate frontend developer from South Africa.](https://raw.githubusercontent.com/omoinjm/omoinjm/main/banner.webp)
+
 <p align="left"> <a href="https://twitter.com/nhlanhlamalaza_" target="blank"><img src="https://img.shields.io/twitter/follow/nhlanhlamalaza_?logo=twitter&style=for-the-badge" alt="nhlanhlamalaza_" /></a> </p>
 
 - 🔭 I’m currently working on [an E-commerce store](https://github.com/omoinjm/selassie-store)
