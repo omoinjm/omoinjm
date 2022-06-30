@@ -9,7 +9,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/omoinjm)
 
-- 🔭 I’m currently working on an [E-commerce store](https://github.com/omoinjm/selassie-store)
+- 🔭 I’m currently working on an [E-commerce store](https://selassie-store.netlify.app/)
 
 - 🌱 I’m currently learning **Docker**
 
