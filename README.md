@@ -15,18 +15,16 @@
          </a>
          | Helping startup E-Commerce businesses
       </p>
-      <p style="display: flex;
-         flex-direction: row;
-         gap: 20px;">
-         <span class="icon">
+      <p>
+         <span style="margin-right: 10px">
             <img style="width: 15px;" src="./icon/geo-alt-fill.svg" alt="Icon"/>
             Johannesburg, South Africa
          </span>
-         <span class="icon">
+         <span style="margin-right: 10px">
             <img style="width: 15px;" src="./icon/terminal-fill.svg" alt="Icon"/>
             2 Years Experience
          </span>
-         <span class="icon">
+         <span style="margin-right: 10px">
             <img style="width: 15px;" src="./icon/briefcase-fill.svg" alt="Icon"/>
             <a
                href="https://instagram.com/rysissoftware"
