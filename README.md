@@ -2,7 +2,7 @@
    <table>
       <tr>
          <td>
-            <img src="./pro.png" alt="Profile Image" />   
+            <img src="./icon/react.svg" alt="Profile Image" />   
          </td>
          <td>
             <h1>Nhlanhla Malaza</h1>
@@ -53,7 +53,7 @@
    <h4>Contact</h4>
    <table>
       <tr>
-         <td style="height: 30px">
+         <td>
             <a
                href="https://njmportfolio.vercel.app/"
                target="_blank"
@@ -105,13 +105,15 @@
 
 <section>
    <h4>About</h4>
-   A passionate software developer, willing to learn and adapt to any software environment. I am always striving to improve myself and my skills. I enjoy working with others and within a team.
+   <p>
+      A passionate software developer, willing to learn and adapt to any software environment. I am always striving to improve myself and my skills. I enjoy working with others and within a team.
+   </p>
 </section>
 
 ---
 
 <section>
-   <h4 style="margin-bottom: 25px">Tech Stack</h4>
+   <h4>Tech Stack</h4>
    <table>
       <tr>
          <td>
@@ -193,3 +195,5 @@
       </tr>
    </table>
 </section>
+
+---
