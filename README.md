@@ -2,7 +2,11 @@
    <table>
       <tr>
          <td>
-            <img src="./icon/react.svg" alt="Profile Image" />   
+            <img 
+               style="width: 200px;" 
+               src="./icon/react.svg" 
+               alt="Profile"
+            />   
          </td>
          <td>
             <h1>Nhlanhla Malaza</h1>
