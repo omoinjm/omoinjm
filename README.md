@@ -201,3 +201,35 @@
 </section>
 
 ---
+
+<section>
+   <h4>Repository Stats</h4>
+   <table>
+      <tr>
+         <td>
+            <p>
+               <img 
+                  src="https://github-readme-stats.vercel.app/api?username=omoinjm&show_icons=true&locale=en" 
+                  alt="omoinjm" 
+               />
+            </p>
+         </td>
+         <td>
+            <p>
+               <img 
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=omoinjm&" alt="omoinjm" />
+            </p>     
+         </td>
+      </tr>
+      <tr>
+      <td>
+         <p>
+            <img 
+               src="https://github-readme-stats.vercel.app/api/top-langs?username=omoinjm&show_icons=true&locale=en&layout=compact"
+               alt="omoinjm" />
+         </p>
+      </td>
+      </tr>
+   </table>
+
+</section>
