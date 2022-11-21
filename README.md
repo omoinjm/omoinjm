@@ -35,12 +35,12 @@
                   <td>
                      <img src="./icon/briefcase-fill.svg" alt="Icon"/>
                      <a
-                        href="https://instagram.com/rysissoftware"
+                        href="https://www.rysis.co.za/"
                         target="_blank"
                         rel="noreferrer"
                         aria-label="Current employer"
                      >
-                        @RysisSoftware
+                        Rysis Software
                      </a>   
                   </td>
                </tr>
