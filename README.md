@@ -59,7 +59,7 @@
       <tr>
          <td>
             <a
-               href="https://njmportfolio.vercel.app/"
+               href="https://njmtech.vercel.app/"
                target="_blank"
                rel="noreferrer"
                aria-label="Portfolio Website"
