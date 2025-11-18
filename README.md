@@ -10,9 +10,8 @@
          </td>
          <td>
             <h1>Nhlanhla Malaza</h1>
-         <p>Tech and Lifestyle | Helping startup e-commerce businesses
+         <p>Tech and Lifestyle | Helping startup E-Commerce businesses
          </p>
-
          <p>
             <table>
                <tr>
@@ -22,7 +21,7 @@
                   </td>
                   <td>
                      <img src="./icon/terminal-fill.svg" alt="Icon"/>
-                     2 Years Experience
+                     2 Years Experience   
                   </td>
                   <td>
                      <img src="./icon/briefcase-fill.svg" alt="Icon"/>
@@ -33,14 +32,13 @@
                         aria-label="Current employer"
                      >
                         Rysis Software
-                     </a>
+                     </a>   
                   </td>
                </tr>
             </table>
          </p>
          </td>
       </tr>
-
    </table>
 </section>
 
