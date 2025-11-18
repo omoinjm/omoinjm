@@ -10,17 +10,9 @@
          </td>
          <td>
             <h1>Nhlanhla Malaza</h1>
-         <p>Tech and Lifestyle
-            | <a
-               href="https://instagram.com/rysissoftware"
-               target="_blank"
-               rel="noreferrer"
-               aria-label="Current employer"
-               >
-                  @RysisSoftware
-            </a>
-            | Helping startup E-Commerce businesses
+         <p>Tech and Lifestyle | Helping startup e-commerce businesses
          </p>
+
          <p>
             <table>
                <tr>
@@ -30,7 +22,7 @@
                   </td>
                   <td>
                      <img src="./icon/terminal-fill.svg" alt="Icon"/>
-                     2 Years Experience   
+                     2 Years Experience
                   </td>
                   <td>
                      <img src="./icon/briefcase-fill.svg" alt="Icon"/>
@@ -41,13 +33,14 @@
                         aria-label="Current employer"
                      >
                         Rysis Software
-                     </a>   
+                     </a>
                   </td>
                </tr>
             </table>
          </p>
          </td>
       </tr>
+
    </table>
 </section>
 
@@ -90,18 +83,7 @@
                LinkedIn
             </a>
          </td>
-         <td>
-            <a
-               href="https://www.instagram.com/nhlanhlamalaza_/"
-               target="_blank"
-               rel="noreferrer"
-               aria-label="Portfolio Website"
-            >
-               <img src="./icon/instagram.svg" alt="Icon"/>
-               Instagram
-            </a>
-         </td>
-      </tr>
+               </tr>
    </table>
 </section>
 
