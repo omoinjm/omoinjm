@@ -194,13 +194,7 @@
                />
             </p>
          </td>
-         <td>
-            <p>
-               <img 
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=omoinjm&" alt="omoinjm" />
-            </p>     
-         </td>
-      </tr>
+               </tr>
       <tr>
       <td>
          <p>
