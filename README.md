@@ -1,10 +1,10 @@
-| <img src="./icon/react.svg" width="160" alt="Profile"/> | **Nhlanhla Malaza**<br><small>Helping startups kickstart their tech journeys</small>                                                                                                                                                                                                   |
+| <img src="./icon/react.svg" width="160" alt="Profile"/> | **Nhlanhla Malaza**<br><hr style="margin:12px 0;"/><small>Helping startups kickstart their tech journeys</small>                                                                                                                                                                       |
 | ------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                                                         | [![Location](https://img.shields.io/badge/Johannesburg-South%20Africa-6B7280?style=for-the-badge&logo=mapbox&logoColor=white)]() &nbsp;&nbsp; [![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-16A34A?style=for-the-badge&logo=git&logoColor=white)]() &nbsp;&nbsp; |
 
 ---
 
-### About Me
+### 🤵🏽 About Me
 
 A passionate software developer, willing to learn and adapt to any software environment. I am always striving to improve myself and my skills. I enjoy working with others and within a team.
 
@@ -66,4 +66,3 @@ A passionate software developer, willing to learn and adapt to any software envi
 ### 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/omoinjm)
-
