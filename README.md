@@ -1,22 +1,21 @@
-| <img src="./icon/react.svg" width="160" alt="Profile"/> | **Nhlanhla Malaza**<br><hr style="margin:6px 0; border-color:#444"/> <small>Helping startups kickstart their tech journeys</small> |
-|---:|:---|
-| | [![Location](https://img.shields.io/badge/Johannesburg-South%20Africa-6B7280?style=for-the-badge&logo=mapbox&logoColor=white)]() &nbsp;&nbsp; [![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-16A34A?style=for-the-badge&logo=git&logoColor=white)]() &nbsp;&nbsp; |
-
+| <img src="./icon/react.svg" width="160" alt="Profile"/> | **Nhlanhla Malaza**<br><small>Helping startups kickstart their tech journeys</small>                                                                                                                                                                                                   |
+| ------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                         | [![Location](https://img.shields.io/badge/Johannesburg-South%20Africa-6B7280?style=for-the-badge&logo=mapbox&logoColor=white)]() &nbsp;&nbsp; [![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-16A34A?style=for-the-badge&logo=git&logoColor=white)]() &nbsp;&nbsp; |
 
 ---
 
 ### About Me
+
 A passionate software developer, willing to learn and adapt to any software environment. I am always striving to improve myself and my skills. I enjoy working with others and within a team.
-  
+
 ---
 
 ### 🌐 Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23444444?style=for-the-badge&logo=googleearth&logoColor=white)](https://njmtech.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23444444?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/njmalaza) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23444444?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/njmalaza)
 [![X](https://img.shields.io/badge/X-%23444444?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nhlanhlamalaza_)
 [![Email](https://img.shields.io/badge/Email-%23444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njmalaza@outlook.com)
-
 
 ---
 
@@ -43,6 +42,7 @@ A passionate software developer, willing to learn and adapt to any software envi
 ---
 
 ### 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=omoinjm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=omoinjm&theme=dark&hide_border=false)<br/>
@@ -56,10 +56,14 @@ A passionate software developer, willing to learn and adapt to any software envi
 ---
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=omoinjm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=omoinjm&label=VISITORS&countColor=%23dce775&style=flat-square&labelStyle=upper)
 
 ### 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/omoinjm) 
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/omoinjm)
+
