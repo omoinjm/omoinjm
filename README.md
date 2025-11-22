@@ -1,6 +1,6 @@
 | <img src="./icon/react.svg" width="160" alt="Profile"/> | **Nhlanhla Malaza**<br><hr style="margin:6px 0; border-color:#444"/> <small>Helping startups kickstart their tech journeys</small> |
 |---:|:---|
-| | [![Location](https://img.shields.io/badge/Johannesburg-South%20Africa-6B7280?style=flat-square&logo=mapbox&logoColor=white)]() &nbsp;&nbsp; [![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-16A34A?style=flat-square&logo=git&logoColor=white)]() &nbsp;&nbsp; |
+| | [![Location](https://img.shields.io/badge/Johannesburg-South%20Africa-6B7280?style=for-the-badge&logo=mapbox&logoColor=white)]() &nbsp;&nbsp; [![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-16A34A?style=for-the-badge&logo=git&logoColor=white)]() &nbsp;&nbsp; |
 
 
 ---
@@ -48,10 +48,12 @@ A passionate software developer, willing to learn and adapt to any software envi
 ![](https://nirzak-streak-stats.vercel.app/?user=omoinjm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omoinjm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<!-- ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omoinjm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=omoinjm&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=omoinjm&limit=5&theme=dark&combine_all_yearly_contributions=true)
