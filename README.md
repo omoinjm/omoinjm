@@ -28,8 +28,6 @@ I enjoy solving real-world problems, working in collaborative teams, and continu
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
----
-
 ### ⚙️ DevOps & Tooling
 ![Docker](https://img.shields.io/badge/docker-%232671E5.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -37,8 +35,6 @@ I enjoy solving real-world problems, working in collaborative teams, and continu
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
 
 ### 🎨 Frontend
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,22 +44,16 @@ I enjoy solving real-world problems, working in collaborative teams, and continu
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
 ### 🧩 Backend
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
----
 
 ### 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
----
 
 ### 🛠️ Daily Tools
 ![Neovim](https://img.shields.io/badge/neovim-%23444444.svg?style=for-the-badge&logo=neovim&logoColor=%2357A143)
@@ -82,9 +72,9 @@ I enjoy solving real-world problems, working in collaborative teams, and continu
 
 ---
 
-## 🚀 Top Contributions
+## 🚀 Contribution Graph (Snake Animation)
 
-![](https://github-contributor-stats.vercel.app/api?username=omoinjm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Snake](https://raw.githubusercontent.com/omoinjm/omoinjm/output/github-contribution-grid-snake.svg)
 
 ---
 
