@@ -69,12 +69,9 @@ I enjoy solving real-world problems, working in collaborative teams, and continu
 ![](https://nirzak-streak-stats.vercel.app/?user=omoinjm&theme=dark&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omoinjm&theme=dark&layout=compact&hide_border=false)
+<br/>
 
----
-
-## 🚀 Contribution Graph (Snake Animation)
-
-![GitHub Snake](https://raw.githubusercontent.com/omoinjm/omoinjm/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omoinjm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
